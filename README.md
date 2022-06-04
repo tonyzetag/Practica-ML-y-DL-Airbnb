@@ -1,6 +1,9 @@
 # Deep Learning
 
-Práctica de Deep Learning
+Práctica entregable del módulo de "Machine Learning" y del módulo de "Deep Learning" - Keepcoding
+
+## Objetivo
+Realización de un proyecto completo desde cero, usando los conocimientos de Ingeniería de datos y Ciencia de datos aplicados para predecir el precio de una vivienda en el dataset de Airbnb dependiendo de sus otras características
 
 ## Recursos
 
